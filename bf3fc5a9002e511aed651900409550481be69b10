@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "db902db7_5ff29ba8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2025-05-16T15:51:03Z",
+      "side": 1,
+      "message": "depends on https://review.calyxos.org/c/CalyxOS/device_google_felix/+/36990/1/vibrator/cs40l26/Android.bp",
+      "revId": "bf3fc5a9002e511aed651900409550481be69b10",
+      "serverId": "a6c39fa0-88d7-4027-9994-d2d73832020e"
+    }
+  ]
+}
